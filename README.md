@@ -11,7 +11,7 @@ accuracy: 0.5989, cr accuracy: 0.28 <br>
 Model 2 <br>
 trainModel_balanced.zip, nyaaCategorizer_balanced.ipynb <br>
 accuracy: 0.1159, cr accuracy: 0.03 <br> 
-+ balansirane klase (class_weights) <br> <br>
++ balanced classes (class_weights) <br> <br>
 
 Model 3 <br>
 trainedModel_balanced_nosub_extra.zip, nyaaCategorizer_balanced_nosub_extra.ipynb <br>
