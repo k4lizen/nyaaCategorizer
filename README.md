@@ -1,5 +1,12 @@
 ﻿# nyaaCategorizer
 
+[Nyaa](https://nyaa.si) torrent classifier. Uses torrent description text to predict its category. <br>
+Example input. <br>
+![image](https://github.com/hiddenMedic/nyaaCategorizer/assets/124312252/9b007159-f1ee-4c29-80e3-c7960ffa9f33)
+Output here is **Literature - English-translated**. <br>
+Possible outputs. <br>
+![image](https://github.com/hiddenMedic/nyaaCategorizer/assets/124312252/e8d2a331-adde-4cbb-89ce-d0a27490fbf0)
+
 Data located at: <br>
 [nyaaCategorizer_database repo](https://github.com/hiddenMedic/nyaaCategorizer_database) <br><br>
 
