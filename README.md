@@ -23,7 +23,7 @@ accuracy: 0.1159, cr accuracy: 0.03 <br>
 Model 3 <br>
 trainedModel_balanced_nosub_extra.zip, nyaaCategorizer_balanced_nosub_extra.ipynb <br>
 accuracy: 0.987, cr accuracy: 0.57 <br>
-+ balansirane klase (class_weights) <br>
++ balanced classes (class_weights) <br>
 + only look at the main category (subcategories converted) <br>
 + extra <br>
 extra = { <br> 
@@ -39,7 +39,7 @@ extra = { <br>
 Model 4 <br>
 trainedModel_balanced_nosub_extra_maincat.zip, nyaaCategorizer_balanced_nosub_maincats_extra.ipynb <br>
 accuracy=0.9919, cr accuracy: 0.56 <br>
-+ balansirane klase (class_weights) <br>
++ balanced classes (class_weights) <br>
 + only look at the main category (subcategories converted)<br>
 + discard all data that is 'Software' or 'Pictures' since there isnt a lot of it<br>
 + extra /\<br>
